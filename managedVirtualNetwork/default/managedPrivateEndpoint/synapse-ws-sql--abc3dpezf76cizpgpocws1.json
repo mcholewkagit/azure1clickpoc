@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--abc3dpezf76cizpgpocws1",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/8aef35cb-394c-4a34-9d3a-cb56ed0e4123/resourceGroups/Azure1clickPOC/providers/Microsoft.Synapse/workspaces/abc3dpezf76cizpgpocws1",
+		"groupId": "sql",
+		"fqdns": [
+			"abc3dpezf76cizpgpocws1.2444593d-63d0-4f35-8bed-756d53acfd67.sql.azuresynapse.net"
+		]
+	}
+}
